@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding="t3lib/|typo3/|typo3conf/|typo3temp/|uploads/|fileadmin/user_upload/|fileadmin/_processed_/|fileadmin/_temp_/|fileadmin/content_uploads/|fileadmin/default/|fileadmin/img/|fileadmin/_migrated/" kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
